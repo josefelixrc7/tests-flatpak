@@ -1,0 +1,5 @@
+[Application]
+name=org.flatpak.Hello
+runtime=org.freedesktop.Platform/i386/18.08
+sdk=org.freedesktop.Sdk/i386/18.08
+command=hello.sh
